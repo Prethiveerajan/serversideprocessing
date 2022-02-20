@@ -17,7 +17,7 @@ Use views.py to execute the coding in serverside.
 Mention the path of the website in urls.py.
 
 ### Step 5:
-Publish the website in the given URL:
+Publish the website in the given URL : http://prethivee07.student.saveetha.in/
 
 ## PROGRAM :
 ## Area.html:
